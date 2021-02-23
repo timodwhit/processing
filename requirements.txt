@@ -1,0 +1,12 @@
+pySqsListener==0.8.7
+boto3==1.16.29
+requests==2.25.1
+botocore==1.19.29
+gdown==3.12.2
+pyshp==2.1.2
+pdal==2.3.5
+pyproj==3.0.0.post1
+pyyaml==5.3.1
+watchtower==1.0.0
+uuid==1.30
+PyCRS==1.0.2

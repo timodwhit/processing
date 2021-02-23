@@ -1,0 +1,9 @@
+.DS_Store
+build/*
+__pycache__/*
+*/__pycache__/*
+*/*/__pycache__
+__pycache__
+
+.idea
+venv/*
