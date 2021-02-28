@@ -12,7 +12,10 @@ RUN apt-get update && apt-get -y install cmake \
 	gcc-10 \
 	build-essential \
 	libsparsehash-dev \
-	libopenblas-dev
+	libopenblas-dev \
+	libjpeg9 \
+	libtiff5 \
+	libcurl4-openssl-dev
 
 ENV HOME /root
 ENV PROCESSING $HOME/processing
